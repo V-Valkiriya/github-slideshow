@@ -2,5 +2,6 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+> #### Scio me nihil scire.
+> *Socrates.*
 Use the left arrow to go back!
